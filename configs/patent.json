@@ -1,0 +1,13 @@
+{
+  "matching_mode": "gain",
+  "structure_window": 9,
+  "confidence_threshold": 0.65,
+  "fb_threshold": 1.5,
+  "core_threshold": 230,
+  "signal_threshold": 8,
+  "halo_radius": 21,
+  "clahe_clip": 2.0,
+  "clahe_grid": 8,
+  "pyramid_levels": 3,
+  "highlight_rolloff": 0.0
+}
